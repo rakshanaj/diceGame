@@ -23,6 +23,7 @@ h1 {
 }
 
 p {
+  text-align: center;
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
